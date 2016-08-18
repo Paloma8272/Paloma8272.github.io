@@ -84,7 +84,7 @@ var rules = {
     "Have you dreamt of ~y before?",
   ],
   "~*x I dream about ~*y": [
-    "How do you feel about ~y in reality?",
+    "aint nobody got time for that",
   ],
   "~*x dream ~*y": [
     "What does this dream suggest to you?",
